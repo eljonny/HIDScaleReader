@@ -93,7 +93,7 @@ public final class ScaleReader extends Observable{
 	private static class ScaleReaderFrame extends JFrame implements Observer {
 		
 		private static final long serialVersionUID = 2413067983807038444L;
-		private static final String aboutMessage = "GNU GPL v3 | Copyright 2014 Jonathan Hyry";
+		private static final String aboutMessage = "Unlicensed Public Domain Software - The Unlicense";
 		private static final String bugsMessage = "Please send bug reports to jon@ttcwenatchee.com";
 		private JLabel lblScaleWeight = new JLabel("No scale readings yet.", SwingConstants.CENTER);
 		
